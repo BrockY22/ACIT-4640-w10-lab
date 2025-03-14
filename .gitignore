@@ -1,5 +1,5 @@
-packer/
-scripts/
+**/packer
+**/scripts
 terraform/.terraform
 .terraform*
 terraform.tfstate*

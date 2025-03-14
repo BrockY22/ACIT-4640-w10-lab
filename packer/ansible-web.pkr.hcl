@@ -37,5 +37,6 @@ build {
     ansible_env_vars = ["ANSIBLE_HOST_KEY_CHECKING=False"]
     playbook_file    = "./ansible/playbook.yml"
     user             = var.ssh_username
+    use_proxy = false
   }
 }

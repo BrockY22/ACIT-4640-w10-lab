@@ -1,0 +1,6 @@
+packer/
+scripts/
+terraform/.terraform
+.terraform*
+terraform.tfstate*
+README.md
